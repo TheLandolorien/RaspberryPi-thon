@@ -1,12 +1,14 @@
 Here you will find scripts and documentation for the Raspberry Pi-thon Workshop presented at Pearl Hack 2019 at UNC-Chapel Hill. The workshop covers the basics of I2C and GPIO, Raspberry Pi setup, and basic python scripting using the Pimoroni Touch pHAT Library.
 
+Check out the [Wiki section](https://github.com/CallieLinux/RaspberryPi-thon/wiki) for a walkthrough of the workshop.
+
 ## Required Software
 
 You will need drivers to use the console cable that allows you to connect to the Raspberry Pi from your computer. Download the drivers specific to your operating system:
 
 ### Mac
 
-- See [Mac Software Installation Instructions](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable/software-installation-mac) for more details but the necessary downloads are listed here:
+See [Mac Software Installation Instructions](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable/software-installation-mac) for more details but the necessary downloads are listed here:
 - SiLabs Drivers: http://www.silabs.com/Support%20Documents/Software/Mac_OSX_VCP_Driver.zip
 
 ### Windows
