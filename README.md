@@ -6,20 +6,20 @@ You will need drivers to use the console cable that allows you to connect to the
 
 ### Mac
 
-- Prolific Drivers: http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=229&pcid=41
-	- See [Mac Software Installation Instructions](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable/software-installation-mac) for more details
+- See [Mac Software Installation Instructions](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable/software-installation-mac) for more details but the necessary downloads are listed here:
+- SiLabs Drivers: http://www.silabs.com/Support%20Documents/Software/Mac_OSX_VCP_Driver.zip
 
 ### Windows
-- PuTTY: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
-	- See [SSH Terminal > B. PuTTY](https://www.cs.unc.edu/Research/geni/geniEdu/sshTerminal.html) for more details
-- Prolific Drivers: http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=225&pcid=41
-	- See [Windows Software Installation Instructions](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable/software-installation-windows]) for more details
+
+See [Windows Software Installation Instructions](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable/software-installation-windows]) for more details but the necessary downloads are listed here:
+- PuTTY: http://www.putty.org/
+- SiLabs Drivers: http://www.silabs.com/Support%20Documents/Software/CP210x_Windows_Drivers.zip
 
 ### Linux
 
-- Screen: `sudo apt-get install screen`
-	- See [Linux Software Installation Instructions](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable/software-installation-linux) for more details
-	- NOTE: Run `screen -v` to check if you already have `screen` installed
+Most Debian-based Linux flavors should have `screen` installed. Run `screen -v` to check if you already have `screen` installed. Use your OS's package manager to install screen if needed (e.g. `sudo apt-get install screen`)
+
+See [Linux Software Installation Instructions](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-5-using-a-console-cable/software-installation-linux) for more details.
 
 ## Resources
 
