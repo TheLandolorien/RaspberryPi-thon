@@ -1,3 +1,5 @@
+# Raspberry Pi-thon: PearlHacks 2020 Workshop
+
 Here you will find scripts and documentation for the Raspberry Pi-thon Workshop presented at Pearl Hack 2019 at UNC-Chapel Hill. The workshop covers the basics of I2C and GPIO, Raspberry Pi setup, and basic python scripting using the Pimoroni Touch pHAT Library.
 
 Check out the [Wiki section](https://github.com/CallieLinux/RaspberryPi-thon/wiki) for a walkthrough of the workshop.
